@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0b5fc18807eb2deae78b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "drawingApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "drawingApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-drawingApp-Debug-273c79a29dbae99b8fd9.json",
+					"name" : "drawingApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "drawingApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-drawingApp_autogen-Debug-4b8c469a19ce064de701.json",
+					"name" : "drawingApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "drawingApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-drawingApp_autogen_timestamp_deps-Debug-d27256cc1454aaa93ce7.json",
+					"name" : "drawingApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/noahcb/Desktop/drawingApp/build/Qt_6_8_1_for_macOS-Debug",
+		"source" : "/Users/noahcb/Desktop/drawingApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
