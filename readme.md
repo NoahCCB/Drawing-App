@@ -36,13 +36,10 @@ Supports all image formats provided by Qt, including:
 - Other formats supported by the Qt image I/O system
 
 ## License
-[Add your license information here]
+None
 
 ## Author
 Noah Cunningham Baker
-
-## Contributing
-[Add contribution guidelines if applicable]
 
 ## Troubleshooting
 - If the application fails to start, ensure Qt libraries are properly installed
